@@ -25,8 +25,8 @@ A well-written README should contain project name, description of the project, i
 ## Compare and contrast the differences between a public repository and a private repository on GitHub. What are the advantages and disadvantages of each, particularly in the context of collaborative projects?
 A public repository is visible to everyone on the internet and anyone can contribute while a private repository is only visible to the owner ond specific colaborators who have gained access.
 ADVANTAGES
-public repository encourages contributions from a broad community hence enhances the connection with other developers
-private repository allows you to keep your work secure 
+Public repository encourages contributions from a broad community hence enhances the connection with other developers
+Private repository allows you to keep your work secure 
 DISADVANTAGES
 public repository lacks privacy hence some important projects could be stolen by others
 private repository cuts down the chances of the help from a broader community
