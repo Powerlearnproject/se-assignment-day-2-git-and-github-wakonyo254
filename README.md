@@ -47,7 +47,7 @@ d) merge the branch with the main branch after you are content about your work. 
 Pull requests enables version control system track changes. Pull requests provide a space where developers can discuss proposed changes and also reveiwers can comment directly within the code change
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
-
+Forkinn is
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
