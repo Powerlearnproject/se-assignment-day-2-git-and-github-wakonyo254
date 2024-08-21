@@ -45,6 +45,7 @@ d) merge the branch with the main branch after you are content about your work. 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 Pull requests enables version control system track changes. Pull requests provide a space where developers can discuss proposed changes and also reveiwers can comment directly within the code change
+
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
